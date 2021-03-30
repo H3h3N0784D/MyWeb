@@ -1,0 +1,70 @@
+@import url('hhtps://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+:root {
+    --main-color: #ff82cb;
+    --color-dark:  #e83aa0;
+    --text-grey: #8390A2;
+    
+}
+
+* {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing:  border-box;
+    background-color: #000000;
+}
+
+.header {
+    padding: 17rem;
+    text-align: center;
+}
+
+.header h1 {
+    color: var(--main-color);
+}
+
+.ti-face-smile{
+    color: var(--main-color);
+}
+
+.content {
+    padding: 20rem;
+    text-align: center;
+    color: var(--main-color);
+}
+
+.content-1 {
+    padding: 20rem;
+    text-align: center;
+    color: var(--main-color);
+}
+
+.content-2 {
+    padding: 20rem;
+    text-align: center;
+    color: var(--main-color);
+}
+
+.hehe {
+    padding: 20rem;
+    text-align: center;
+    color: var(--main-color);
+}
+
+.hehe .button {
+    text-decoration: none;
+    background-color: var(--main-color);
+    color: #000000;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+}
+
+.hehe .tombol{
+    padding: 1rem;
+}
